@@ -38,3 +38,6 @@ bower.json
 .byebug_history
 .idea
 DS_Store
+
+# Ignore Spring files.
+/spring/*.pid
